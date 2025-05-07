@@ -11,3 +11,7 @@ for i in range (n-2,-1,-1):
 
 
 print(nums)
+
+
+# TC -> o(n^2)
+# SC -> O(1)
